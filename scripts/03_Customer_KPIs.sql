@@ -9,6 +9,18 @@ select
 count(*) as active_customers
 from customer_churn
 where churn=0;
+--what is the  gender distribution of customers
+select
+gender,
+count(*) as total_customer
+from customer_churn
+group by gender
+--what is the distribution of senior citizens
+select
+seniorcitizen,
+count(*) as total_customer
+from customer_churn
+group by seniorcitizen
 --churned customers
 select count(*) as churned_customers
 from customer_churn
