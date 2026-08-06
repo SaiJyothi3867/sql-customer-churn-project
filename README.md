@@ -216,6 +216,9 @@ Through comprehensive data validation, cleaning, KPI analysis, business analysis
 
 The project highlights the importance of data-driven decision-making and showcases the application of SQL in solving business challenges faced by subscription-based organizations.
 ---
+## 📁 Repository Structure
+
+```text
 Customer-Churn-SQL/
 │
 ├── 📂 Dataset
@@ -241,6 +244,7 @@ Customer-Churn-SQL/
 │
 ├── README.md
 └── LICENSE
+```
 
 ---
 
