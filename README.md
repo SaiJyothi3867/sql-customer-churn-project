@@ -233,7 +233,7 @@ Customer-Churn-SQL/
 │   ├── 06_Service_KPIs.sql
 │   ├── 07_Contract_KPIs.sql
 │   ├── 08_Business_Analysis.sql
-│   └── 09_Advanced_SQL.sql
+│   └── 09_Advanced_business_analysis.sql
 │
 ├── 📂 Screenshots
 │   ├── Database_Import.png
