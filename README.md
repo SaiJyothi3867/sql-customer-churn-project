@@ -239,7 +239,7 @@ Customer-Churn-SQL/
 │   ├── Database_Import.png
 │   ├── KPI_Results.png
 │   ├── Business_Analysis.png
-│   ├── Advanced_SQL.png
+│   ├── Advanced_analysis.png
 │   └── Views.png
 │
 ├── README.md
